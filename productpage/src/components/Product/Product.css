@@ -1,0 +1,77 @@
+.Products{
+    justify-content: space-between;
+}
+
+
+.Products1{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    
+    
+  
+    
+
+}
+.Products2{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    
+
+}
+
+.Products3{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+
+.Products4{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+
+.Products5{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+
+.Products6{
+    background-color: honeydew;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+
+h1{
+   font-size: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 10px;
+}
+
+img{
+    width: 230px;
+   
+}
